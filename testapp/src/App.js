@@ -1,11 +1,13 @@
+import React from 'react'
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <p className='text-5xl bg-blue-400'>xxcxxzxxxx</p>
+    <div>
+      main
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
+
